@@ -7,19 +7,19 @@ A simple **console-based Library Management System** developed using **Java**. I
 - View list of all books
 - Delete books by number
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Java (JDK 8+)
 - ArrayList
 - File I/O (`Scanner`, `PrintWriter`, `File`)
 - Command-Line Interface (CLI)
 
-## 📂 Project Structure
+## Project Structure
 ```
 LibraryManagement.java
 books.txt  ← created at runtime to store book data
 ```
 
-## ▶️ How to Run
+## How to Run
 1. **Clone the repository**
    ```
    git clone https://github.com/your-username/library-management-java.git
@@ -36,7 +36,7 @@ books.txt  ← created at runtime to store book data
    java LibraryManagement
    ```
 
-## 💾 Data Format
+## Data Format
 The program saves book data in a file named `books.txt` in the following format:
 ```
 Book Title;Author Name
