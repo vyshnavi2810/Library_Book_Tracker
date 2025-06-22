@@ -19,23 +19,6 @@ LibraryManagement.java
 books.txt  ← created at runtime to store book data
 ```
 
-## How to Run
-1. **Clone the repository**
-   ```
-   git clone https://github.com/your-username/library-management-java.git
-   cd library-management-java
-   ```
-
-2. **Compile the Java program**
-   ```
-   javac LibraryManagement.java
-   ```
-
-3. **Run the program**
-   ```
-   java LibraryManagement
-   ```
-
 ## Data Format
 The program saves book data in a file named `books.txt` in the following format:
 ```
